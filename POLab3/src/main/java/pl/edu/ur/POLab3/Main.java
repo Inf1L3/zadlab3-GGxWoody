@@ -18,7 +18,6 @@ public class Main {
         // TODO 1.4, 1.7, 
         // TODO 2.2
         // TODO 3.3, 3.4
-        hanoiTowers(3, "Startowy", "Buffor", "Koncowy");
     }
 
     public static void zadanie1_3() {
@@ -58,7 +57,9 @@ public class Main {
         //System.out.println(c);
         System.out.println(d);
     }
-
+    
+    //zadanie1.7
+    //Domowe
     public static void zadanie1_7() {
         //Opereator NOT i XOR uzyte w instrukcji warunkowej if
         Boolean falsz = false;
